@@ -1,0 +1,6 @@
+{
+  "name": "JSONL Explorer",
+  "description": "Local-first web tool for inspecting, searching, filtering, validating, analyzing, and exporting JSONL datasets directly in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
